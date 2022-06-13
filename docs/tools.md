@@ -25,6 +25,7 @@ to provide additional context.
 - [Accessibility](#accessibility)
 - [Collaboration](#collaboration)
 - [Graphics](#graphics)
+  - [Desktop publishing](#desktop-publishing)
   - [Illustration](#illustration)
   - [Image editing](#image-editing)
 - [Productivity](#productivity)
@@ -48,6 +49,17 @@ to provide additional context.
 
 ## Graphics
 
+### Desktop publishing
+
+- [Adobe InDesign](https://www.adobe.com/products/indesign.html) &ndash; a
+  full-featured print design and layout package. `#paid` `#trial` `#education`
+  `#windows` `#macos`
+- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) &ndash; a
+  newer, but capable, entry in the desktop publishing space. `#paid` `#trial`
+  `#windows` `#macos` `#ipados`
+- [Scribus](https://www.scribus.net) &ndash; an open source desktop publishing
+  suite. `#open-source` `#windows` `#linux` `#macos`
+
 ### Illustration
 
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) &ndash;
@@ -62,8 +74,13 @@ to provide additional context.
 - [Clip Studio Paint](https://www.clipstudio.net/) &ndash; a digital painting
   package that's widely acclaimed by artists. `#paid` `#trial` `#windows`
   `#macos` `#ios` `#ipados` `#android` `#chrome`
+- [Inkscape](https://inkscape.org) &ndash; an open source illustration tool for
+  creating images in scalable vector graphics (SVG) format. `#open-source`
+  `#windows` `#linux` `#macos`
 - [Krita](https://krita.org/) &ndash; an open source digital painting package
   suitable for illustration. `#open-source` `#windows` `#linux` `#macos`
+- [Procreate](https://procreate.art) &ndash; a popular, full-featured digital
+  painting tool for iPad and iPhone. `#paid` `#ipados` `#ios`
 
 ### Image editing
 
@@ -72,8 +89,13 @@ to provide additional context.
   `#education` `#windows` `#macos` `#ipados`
 - [ezgif.com](https://ezgif.com/) &ndash; converts videos to animated GIFs and
   offers various editing and optimization features. `#free` `#browser`
+- [GIMP](https://www.gimp.org) &ndash; a powerful open-source image editor with
+  a large feature set. `#open-source` `#windows` `#linux` `#macos`
 - [Paint.NET](https://www.getpaint.net/) &ndash; a free photo and image editor.
   `#free` `#windows`
+- [Pixelmator Pro](https://www.pixelmator.com/) &ndash; a powerful image editor
+  for Apple devices with an approachable price point. `#paid` `#trial` `#macos`
+  `#ipados` `#ios`
 
 ## Productivity
 
