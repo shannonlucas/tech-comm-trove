@@ -1,5 +1,14 @@
 # Technical communications trove
 
+   ---
+
+The canonical, and most up-to-date source for these links is this collection on
+Raindrop.io: [Technical Communication](https://raindrop.io/shannonlucas/technical-communication-24596118/sort=title)
+
+This repository will be updated from that source as my time permits.
+
+   ---
+
 A collection of resources related to the craft of [technical communication](https://en.wikipedia.org/wiki/Technical_communication).
 
 I created this collection initially to support my cohort in the University of
