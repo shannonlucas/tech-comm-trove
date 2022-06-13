@@ -7,7 +7,8 @@ Washington [Technical Writing program](https://www.pce.uw.edu/certificates/profe
 
 ## Contents
 
-- [Docs as code](docs/docs-as-code.md) &ndash; includes resources on git
+- [Docs as code](docs/docs-as-code.md) &ndash; links to information about
+  documentation as code, including some resources on git.
 - [Text formats](docs/text-formats.md) &ndash; references and tutorials
   covering common text formats such as Markdown, HTML, and XML.
 - [Writing resources](docs/resources.md) &ndash; general reference material

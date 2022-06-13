@@ -2,7 +2,7 @@
 
 Documentation as code (docs-as-code) is an approach to developing and
 maintaining technical documentation using the same tools and processes used to
-write code. 
+write code.
 
 ## Contents<!-- omit in toc -->
 
@@ -12,6 +12,7 @@ write code.
   - [Tutorials](#tutorials)
   - [Reference](#reference)
 - [Docs-as-code tool chain](#docs-as-code-tool-chain)
+  - [Documentation generators](#documentation-generators)
   - [Static site generators (SSGs)](#static-site-generators-ssgs)
   - [Version control](#version-control)
 
@@ -64,6 +65,8 @@ provide additional context.
 
 \* *Command line software written for Linux may also run on Windows using the
 [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about)*
+
+### Documentation generators
 
 - [Asciidoctor](https://asciidoctor.org/) &ndash; a command line tool that
   publishes AsciiDoc files to HTML, DocBook, PDF, EPUB, and other formats.
