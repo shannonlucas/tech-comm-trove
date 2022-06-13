@@ -144,7 +144,7 @@ Each format section below contains both tutorials and reference materials.
 
 ### Tutorials<!-- omit in toc -->
 
-- [Write the Docs: Introduction to reStructuredText](https://www.writethedocs.org/about/learning-resources/)
+- [Write the Docs: Introduction to reStructuredText](https://www.writethedocs.org/guide/writing/reStructuredText/)
   &ndash; a short, high-level introduction.
 
 ### Reference<!-- omit in toc -->
