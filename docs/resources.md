@@ -28,6 +28,7 @@
 - [APA Inclusive Language Guidelines](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines)
 - [Conscious Style Guide](https://consciousstyleguide.com) &ndash; a collection of links to resources and articles to help make writing more inclusive.
 - [In the Loop](https://americanenglish.state.gov/resources/loop) &ndash; a guide to American idioms published by the US Department of State.
+- [Inclusive Naming Initiative](https://inclusivenaming.org/) &ndash; a guide for replacing harmful and exclusionary language in information technology.
 - [Inclusive style guides (@cdanis)](https://github.com/cdanis/inclusive-style-guides) a listing of code and documentation style guides with specific advice on inclusive language.
 - [Linguistic Society Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language) &ndash; guidelines that highlight some subtle pitfalls or habits that may unintentionally lead to marginalization, offense, misrepresentation, or the perpetuation of stereotypes.
 - [U.S. Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
