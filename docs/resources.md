@@ -27,9 +27,11 @@
 
 - [APA Inclusive Language Guidelines](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines)
 - [Conscious Style Guide](https://consciousstyleguide.com) &ndash; a collection of links to resources and articles to help make writing more inclusive.
+- [Empathy Prompts](https://empathyprompts.net/) &ndash; a set of things to consider when making things for others to use. The prompts are primarily focused on design, but most are also applicable to technical communication.
 - [In the Loop](https://americanenglish.state.gov/resources/loop) &ndash; a guide to American idioms published by the US Department of State.
 - [Inclusive Naming Initiative](https://inclusivenaming.org/) &ndash; a guide for replacing harmful and exclusionary language in information technology.
 - [Inclusive style guides (@cdanis)](https://github.com/cdanis/inclusive-style-guides) a listing of code and documentation style guides with specific advice on inclusive language.
+- [Language, Please](https://languageplease.org) &ndash; a free, living resource for journalists and storytellers seeking to thoughtfully cover evolving social, cultural, and identity-related topics.
 - [Linguistic Society Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language) &ndash; guidelines that highlight some subtle pitfalls or habits that may unintentionally lead to marginalization, offense, misrepresentation, or the perpetuation of stereotypes.
 - [U.S. Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
 - [What makes writing more readable?](https://pudding.cool/2022/02/plain) &ndash; An interactive article about plain writing. Each paragraph can be swapped with its plan writing translation.
@@ -44,7 +46,9 @@
 
 ## Learning resources
 
+- [Adobe Technical Communication](https://www.youtube.com/user/AdobeTCS) &ndash; Adobe's YouTube channel focused on technical communication topics. There is an emphasis on Adobe's products, but general topics such as structured content and DITA are also covered.
 - [Google: Technical Writing Courses](https://developers.google.com/tech-writing/overview) &ndash; this collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.
+- [Open Technical Communication](https://alg.manifoldapp.org/projects/open-tc) &ndash; a freely available, open sourced technical communication textbook offered by Affordable Learning Georgia.
 
 ## Style guides
 

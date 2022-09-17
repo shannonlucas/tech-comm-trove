@@ -121,6 +121,7 @@ Each application listed below is tagged with one or more of the following tags t
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) &ndash; one of the leading video editing tools. `#paid` `#trial` `#education` `#windows` `#macos`
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) &ndash; a video editing suite used in many video production studios. `#freemium` `#windows` `#linux` `#macos`
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) &ndash; a popular video editing tool from Apple. `#paid` `#trial` `#macos`
+- [Kdenlive](https://kdenlive.org/) &ndash; a free and open source cross-platform video editor. `#open-source` `#windows` `#linux` `#macos`
 
 ## Writing
 

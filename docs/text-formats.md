@@ -13,6 +13,7 @@ Each format section below contains both tutorials and reference materials.
 - [HTML](#html)
 - [JSON](#json)
 - [Markdown](#markdown)
+- [Open Manual Format](#open-manual-format)
 - [reStructuredText](#restructuredtext)
 - [XML](#xml)
 - [YAML](#yaml)
@@ -106,6 +107,10 @@ Each format section below contains both tutorials and reference materials.
 - [Markdown Guide](https://www.markdownguide.org)
 - [Markdown Quick Reference](https://commonmark.org/help) &ndash; the quick reference guide to the CommonMark specification.
 - [Original material](https://daringfireball.net/projects/markdown/) &ndash; the blog post that started Markdown.
+
+## Open Manual Format
+
+- [Open Manual Format](https://www.omanual.org) &ndash; oManual is a simple, open XML-based standard for semantic, multimedia-rich procedural manuals.
 
 ## reStructuredText
 
